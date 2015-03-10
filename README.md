@@ -73,7 +73,7 @@ This is the top left position of the label within the wrapper.
 
 <img src="https://raw.github.com/jacobtoye/Leaflet.iconlabel/master/eg1.png" alt="E.g. 1" />
 
-Height or icon: 41<br />
+Height of icon: 41<br />
 Width of icon: 25<br />
 Left position of icon point: 13<br />
 Padding: 4<br />
